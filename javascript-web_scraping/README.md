@@ -1,7 +1,8 @@
 <div align="center">
   <h1>JavaScript - Web Scraping</h1>
-  <img src="web_scraping_image.png" alt="Web Scraping" width="200">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uYsNi1UQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1yuk24tdujckpswg8en.gif" alt="Web Scraping">
 </div>
+
 ## Table of Contents
 
 - [Description](#description)
@@ -9,8 +10,7 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Additional Resources](#additional-resources)
-- [License](#license)
+- [Author](#Author)
 
 ---
 
